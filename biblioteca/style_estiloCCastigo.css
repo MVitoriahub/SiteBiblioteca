@@ -1,0 +1,54 @@
+.body{
+    background-color: #c9b7c7;
+    padding:50px;
+    margin-left: 200px;
+    margin-right: 200px
+}
+.title{
+    color: #fffbff;
+}
+
+.container{
+    border: solid 7px;
+    border-color: #866a80;
+    background-color: #fffbff;
+    background-size: auto;
+    display: flex;
+    align-items:center;
+    gap: 10px;
+    width: 900px;
+    height: 400px;
+    justify-content: center;
+    padding: 7%;
+}
+.container img{
+    width: 250px;
+    height:300px;
+    vertical-align: middle;
+    margin: 50px;
+}
+.info{
+    flex: 1;
+}
+.botao-favoritos button{
+    margin-left: 400px;
+}
+h1 {
+    font-family: "Baskervville SC", serif;
+    font-weight: 50px;
+    font-style: normal; 
+}
+p {
+    font-family: "Baskervville SC", serif;
+    font-weight: 25px;
+    font-style: normal; 
+}
+button {
+    font-family: "Baskervville SC", serif;
+    font-weight: 25px;
+    font-style: normal;
+}
+button:hover{
+    color: #410735;
+    background-color: #c9b7c7;
+}

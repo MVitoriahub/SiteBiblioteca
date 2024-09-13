@@ -1,0 +1,118 @@
+body{
+    margin-left: 200px;
+    margin-right: 200px;
+    background-color: #c9b7c7 ;
+    
+}
+    
+.corpo{
+    display: flex;
+
+}
+
+
+
+.titulo-principal h1{
+    font-size: 40px;
+    color: rgb(0, 0, 0);
+    margin-left: 20px;
+    border: 6px solid black;
+    
+
+}
+
+.barradepesquisa input {
+    position: absolute;
+    margin-left: -430px;
+    top: 100px;
+    justify-content: left;
+    height:20px;
+    width: 250px;
+}
+
+.barradepesquisa button{
+    position: absolute;
+    margin-left: -250px ;
+    top: 102px;
+
+}
+.botaofavoritos button{
+    position: absolute;
+    width: 200px;
+    padding: 20px;
+    top: 70px;
+    right: 760px;
+    border-width: 0px;
+    background-color: #866a80;
+    border: 2px solid black;
+}
+
+.botaolidos button{
+    position: absolute;
+    width: 200px;
+    padding: 20px;
+    top: 70px;
+    right: 540px;
+    border-width: 0px;
+    background-color: #866a80;
+    border: 2px solid black;
+}
+
+.botaoparaler button{
+    position: absolute;
+    width: 200px;
+    padding: 20px;
+    top: 70px;
+    right: 320px;
+    border-width: 0px;
+    background-color: #866a80;
+    border: 2px solid black;
+    
+}
+
+.todos h2 {
+    font-size: 30px;
+    margin-top: 70px;
+    margin-left: 40px;
+}
+
+
+.container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    flex: 1000px;
+    justify-content: space-around;
+    align-items: center;
+    align-self: flex-end;
+    gap: 60px;
+}
+
+
+.livro {/*  Crime e castigo */
+    width: 280px;
+    border: 2px solid black;
+    background-color: #866a80;
+    height: 410px;
+    }
+
+.livro img{ /*  Crime e castigo imagem */
+    width: 200px;
+    height: 250px;
+    margin-left: 40px;
+    margin-top: 30px;
+    border: 3px solid black;
+    gap: 10px;
+}   
+
+.livro p{ /*  Crime e castigo texto*/
+    font-size: 20px;
+    width: 225px;
+    border: 3px solid black;
+    text-align: center;
+    background-color: white;
+    margin-left: 25px;
+
+}
+    
+
