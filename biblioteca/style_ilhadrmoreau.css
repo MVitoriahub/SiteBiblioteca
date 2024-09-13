@@ -30,25 +30,3 @@
 .info{
     flex: 1;
 }
-.botao-favoritos button{
-    margin-left: 400px;
-}
-h1 {
-    font-family: "Baskervville SC", serif;
-    font-weight: 50px;
-    font-style: normal; 
-}
-p {
-    font-family: "Baskervville SC", serif;
-    font-weight: 25px;
-    font-style: normal; 
-}
-button {
-    font-family: "Baskervville SC", serif;
-    font-weight: 25px;
-    font-style: normal;
-}
-button:hover{
-    color: #410735;
-    background-color: #c9b7c7;
-}

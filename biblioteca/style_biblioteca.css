@@ -23,52 +23,20 @@ body{
 
 .barradepesquisa input {
     position: absolute;
-    margin-left: -430px;
-    top: 100px;
+    margin-left: -300px;
+    top: 60px;
     justify-content: left;
     height:20px;
-    width: 250px;
+    width: 400px;
 }
 
 .barradepesquisa button{
     position: absolute;
-    margin-left: -250px ;
+    margin-left: -10px ;
     top: 102px;
 
 }
-.botaofavoritos button{
-    position: absolute;
-    width: 200px;
-    padding: 20px;
-    top: 70px;
-    right: 760px;
-    border-width: 0px;
-    background-color: #866a80;
-    border: 2px solid black;
-}
 
-.botaolidos button{
-    position: absolute;
-    width: 200px;
-    padding: 20px;
-    top: 70px;
-    right: 540px;
-    border-width: 0px;
-    background-color: #866a80;
-    border: 2px solid black;
-}
-
-.botaoparaler button{
-    position: absolute;
-    width: 200px;
-    padding: 20px;
-    top: 70px;
-    right: 320px;
-    border-width: 0px;
-    background-color: #866a80;
-    border: 2px solid black;
-    
-}
 
 .todos h2 {
     font-size: 30px;
